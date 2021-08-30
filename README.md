@@ -1,19 +1,12 @@
-# my-vue-router
+## vue中install方法的原理
 
-## Project setup
-```
-yarn install
-```
+## vue-router hash模式实现
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## router-link的实现
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## router-view的实现
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## vue-router history模式的实现
+
+## 路由钩子、路由守卫的实现
+
